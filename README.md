@@ -18,3 +18,8 @@
 
 
 - [My Mood Board](https://i.imgur.com/6kDCv0j.png)
+
+### Attributions:
+[SVGOMG](https://jakearchibald.github.io/svgomg/)
+[hockey stick image](https://pixabay.com/vectors/hockey-stick-hockey-ice-sport-147984/)
+[puck image](https://pixabay.com/vectors/hockey-puck-sports-hockey-ice-1477440/)
