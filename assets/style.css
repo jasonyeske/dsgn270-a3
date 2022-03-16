@@ -1,0 +1,31 @@
+
+.container-one, .container-two {
+	display:flex;
+    width: 50%;
+    float:left;
+    
+}
+
+
+.right-stick, .left-stick {
+
+fill:dimgray;
+
+}
+.right-stroke, .left-stroke {
+
+    stroke-width: 1px;
+    stroke:dimgrey;
+}
+.text {
+
+    fill:red;
+}
+.left-stick2, .right-stick2 {
+
+stroke:black;
+stroke-width:3px;
+fill:white;
+
+
+}
